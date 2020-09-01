@@ -1,0 +1,16 @@
+= Repro invalid part
+:author:    Ninja Squad
+:creator:   Ninja Squad
+:copyright: Ninja Squad
+:doctype: book
+:icons: font
+:imagesdir: images
+:toc2:
+:numbered:
+:username: NinjaSquad
+:source-highlighter: prettify
+:experimental:
+
+ifndef::ebook-format[:leveloffset: 1]
+
+include::intro.adoc[]
